@@ -15,4 +15,4 @@ Saya juga memiliki pengalaman dalam mengembangkan sistem informasi berbasis web 
 - 📩 Email: alfajrinannas23@gmail.com
 - 🔗 LinkedIn: AL FAJRIN ANNAS ALAMSYAH
 - 📷 Instagram: al_up
-- ✆  Whatsapp: https://api.whatsapp.com/send/?phone=6285156466124&text&type=phone_number&app_absent=0
+- ✆ Whatsapp: [+62 851-5646-6124](https://api.whatsapp.com/send/?phone=6285156466124&text&type=phone_number&app_absent=0)
