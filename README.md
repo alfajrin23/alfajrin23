@@ -8,6 +8,7 @@ Saya juga memiliki pengalaman dalam mengembangkan sistem informasi berbasis web 
 - **Frontend:** HTML, CSS, Javascript
 - **Backend:** Node.js, Python
 - **Database:** MySQL,MongoDB, PostgreSQL
+- **Framework:** MySQL,MongoDB, PostgreSQL
 - **Modeling Algorithms:** K Nearest Neighbor, Regression, Support Vector Machine
 - **Other Tools:** Jupyter, VS Code, Git
 
