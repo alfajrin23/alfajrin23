@@ -1,5 +1,5 @@
 # Welcome 👋
-## 🚀 About Me
+# Al Fajrin Annas Alamsyah
 ### Junior Web Developer | Aplikasi Bisnis & Otomasi Alur Kerja
 Nama saya **Al Fajrin Annas Alamsyah**, fresh graduate di bidang **Sistem Komputer** dari Universitas Komputer Indonesia. Saya memiliki ketertarikan yang kuat di bidang teknologi, terutama dalam Data Analytics, IT Support, dan backend developer. Pengalaman saya meliputi berbagai proyek akademik, seperti menerapkan metode K-Nearest Neighbor untuk mengklasifikasi tingkat kematangan buah pepaya secara realtime dengan kamera dan mengembangkan beberapa prototipe berbasis IoT untuk smart monitoring dan control systems.
 
