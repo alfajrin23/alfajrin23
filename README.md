@@ -10,7 +10,7 @@ Lulusan Sistem Komputer dari Universitas Komputer Indonesia. Saya mengembangkan 
 - **Framework:** CodeIgniter 4, Laravel, Next JS, React, PHP
 - **Modeling Algorithms:** K Nearest Neighbor, Regression, Support Vector Machine
 - **Other Tools:** Jupyter, VS Code, Git
-
+ 
 ## 📫 Let's Connect
 - 📩 Email: alfajrinannas23@gmail.com
 - 🔗 LinkedIn: AL FAJRIN ANNAS ALAMSYAH
