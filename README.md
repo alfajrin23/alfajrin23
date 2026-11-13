@@ -8,7 +8,7 @@ Lulusan Sistem Komputer dari Universitas Komputer Indonesia. Saya mengembangkan 
 - **Backend:** Node.js, Python
 - **Database:** MySQL,MongoDB, PostgreSQL 
 - **Framework:** CodeIgniter 4, Laravel, Next JS, React, PHP
-- **Modeling Algorithms:** K Nearest Neighbor, Regression, Support Vector Machine
+- **Modeling Algorithms:** K Nearest Neighbor, Regression, Support Vector Machine  
 - **Other Tools:** Jupyter, VS Code, Git
 
 ## 📫 Let's Connect
