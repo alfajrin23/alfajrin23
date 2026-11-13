@@ -2,7 +2,7 @@
 # Al Fajrin Annas Alamsyah
 ### Junior Web Developer | Aplikasi Bisnis & Otomasi Alur Kerja
 Lulusan Sistem Komputer dari Universitas Komputer Indonesia. Saya mengembangkan aplikasi web untuk membantu proses operasional dan menyajikan data bisnis dengan lebih terstruktur. Saat ini saya berfokus pada pengembangan sistem berbasis web, JavaScript, dan integrasi basis data.
- 
+  
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, Javascript
 - **Backend:** Node.js, Python
